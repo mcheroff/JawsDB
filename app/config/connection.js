@@ -12,7 +12,7 @@ var source = {
         host: 'localhost',
         user: 'root',
         password: "",
-        database: "jawsDB"
+        database: "JawsDB"
     },
     jawsDB: {
 
