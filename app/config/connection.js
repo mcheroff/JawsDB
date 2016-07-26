@@ -9,10 +9,10 @@ var source = {
 
     localhost: {
         port: 3306,
-        host: 'localhost',
-        user: 'root',
-        password: "Njmitx123",
-        database: "starwars"
+        host: 'z12itfj4c1vgopf8.cbetxkdyhwsb.us-east-1.rds.amazonaws.com',
+        user: 's9dkig4mtogsuc63',
+        password: "nvgng5kvpidsd22f",
+        database: "sr0qpebcimcf997a"
     },
     jawsDB: {
 
